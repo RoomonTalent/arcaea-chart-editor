@@ -1,0 +1,11 @@
+Windows audio libraries
+
+miniaudio 0.11.25 by David Reid
+https://github.com/mackron/miniaudio/tree/0.11.25
+
+stb_vorbis 1.24 by Sean Barrett and contributors
+https://github.com/nothings/stb/blob/master/stb_vorbis.c
+SHA-256: B52CF518355F7B2D181F18B97B812F361FFEB26299D935C8CF29E842401D60A6
+
+Both libraries are used under their public-domain (Unlicense) alternative.
+The complete dual-license notices are included in the respective source files.
